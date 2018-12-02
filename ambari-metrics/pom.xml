@@ -45,7 +45,7 @@
     <hadoop.tar>http://localhost/hadoop-3.1.0.3.0.0.0-1634.tar.gz</hadoop.tar>
     <hadoop.folder>hadoop-3.1.0.3.0.0.0-1634</hadoop.folder>
     <grafana.folder>grafana-2.6.0</grafana.folder>
-    <grafana.tar>https://grafanarel.s3.amazonaws.com/builds/grafana-2.6.0.linux-x64.tar.gz</grafana.tar>
+    <grafana.tar>http://localhost/grafana-2.6.0.linux-x64.tar.gz</grafana.tar>
     <phoenix.tar>http://localhost/phoenix-5.0.0.3.0.0.0-1634.tar.gz</phoenix.tar>
     <phoenix.folder>phoenix-5.0.0.3.0.0.0-1634</phoenix.folder>
     <resmonitor.install.dir>/usr/lib/python2.6/site-packages/resource_monitoring</resmonitor.install.dir>
